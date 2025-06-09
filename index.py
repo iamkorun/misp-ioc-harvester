@@ -72,7 +72,7 @@ def print_banner():
     banner = f"""
 {Fore.CYAN}{Style.BRIGHT}
 ╔══════════════════════════════════════════════════════════════╗
-║                    🛡️  MISP IOC EXTRACTOR  🛡️                   ║
+║                    🛡️  MISP IOC HARVESTER  🛡️                   ║
 ║                                                              ║
 ║              Extract threat intelligence from MISP           ║
 ╚══════════════════════════════════════════════════════════════╝

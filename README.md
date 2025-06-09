@@ -16,8 +16,8 @@ A powerful Python tool for extracting and analyzing Indicators of Compromise (IO
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/misp-threat-intel-harvester.git
-   cd misp-threat-intel-harvester
+   git clone https://github.com/iamkorun/misp-ioc-harvester.git
+   cd misp-ioc-harvester
    ```
 
 2. **Install dependencies**
