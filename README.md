@@ -1,7 +1,6 @@
 # 🛡️ MISP Threat Intel Harvester
 
-A powerful Python tool for extracting and analyzing Indicators of Compromise (IOCs) from MISP (Malware Information Sharing Platform) instances. Features beautiful colored output, progress tracking, and comprehensive IOC analysis.
-https://www.misp-project.org/
+A powerful Python tool for extracting and analyzing Indicators of Compromise (IOCs) from [MISP](https://github.com/MISP/MISP) (Malware Information Sharing Platform) instances. Features beautiful colored output, progress tracking, and comprehensive IOC analysis.
 
 ## ✨ Features
 
